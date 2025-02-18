@@ -2,3 +2,12 @@ h1 {
   text-align: center;
   text-decoration: underline;
 }
+
+.container {
+  height: 200px;
+  width: 300px;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin: 20px auto;
+}
